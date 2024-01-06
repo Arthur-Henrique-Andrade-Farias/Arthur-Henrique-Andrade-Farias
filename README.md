@@ -1,16 +1,33 @@
-### Hi there 👋
+### Olá! Eu sou o Arthur Henrique 👋
 
-<!--
-**arthurHAF/arthurHAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://arthurhaf.github.io/Curriculum/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthur-henrique-andrade-farias-0884bb233)
 
-Here are some ideas to get you started:
+![ArthurHAF GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurHAF&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hard Skills: 
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=whitee"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=whit"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</div>
+
+## Soft Skills: 
+
+Conhecimento em técnicas de Engenharia de Software (Scrum, Sprint, Plannings, Personas, Lean Inception, dentre outros); Focado em aprender; Apaixonado por tecnologia; Bom comunicador; Organizado; Resiliente; Possuo facilidade em se adaptar;
+
+## Contatos: 
+
+E-mail: arthurh.afarias@gmail.com
+
+Ou pode me enviar uma mensagem tanto aqui quanto no Linkedin.
+
+## Obrigado por passar por aqui 😊
+
+
+
