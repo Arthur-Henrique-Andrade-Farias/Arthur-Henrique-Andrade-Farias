@@ -17,9 +17,13 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
+##
+ 
+Estudando UI/UX design.
+
 ## Soft Skills: 
 
-Conhecimento em técnicas de Engenharia de Software (Scrum, Sprint, Plannings, Personas, Lean Inception, dentre outros); Focado em aprender; Apaixonado por tecnologia; Bom comunicador; Organizado; Resiliente; Possuo facilidade em se adaptar;
+Conhecimento em técnicas de Engenharia de Software (Scrum, Sprint, Plannings, Personas, Lean Inception, Figma, Miro, GitProjects, dentre outros); Focado em aprender; Apaixonado por tecnologia; Bom comunicador; Organizado; Resiliente; Possuo facilidade em me adaptar;
 
 ## Contatos: 
 
