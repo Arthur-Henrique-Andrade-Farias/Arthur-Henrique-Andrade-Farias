@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Arthur Henrique 👋
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://arthurhaf.github.io/Curriculum/)
+
 <a href="www.linkedin.com/in/arthur-henrique-andrade-farias-0884bb233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 ![ArthurHAF GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurHAF&show_icons=true&theme=dracula)
