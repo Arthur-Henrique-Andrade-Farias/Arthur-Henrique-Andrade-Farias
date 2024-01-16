@@ -22,6 +22,8 @@
  
 Estudando UI/UX design.
 
+<a href="www.linkedin.com/in/arthur-henrique-andrade-farias-0884bb233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+
 ## Soft Skills: 
 
 Conhecimento em técnicas de Engenharia de Software (Scrum, Sprint, Plannings, Personas, Lean Inception, Figma, Miro, GitProjects, dentre outros); Focado em aprender; Apaixonado por tecnologia; Bom comunicador; Organizado; Resiliente; Possuo facilidade em me adaptar;
