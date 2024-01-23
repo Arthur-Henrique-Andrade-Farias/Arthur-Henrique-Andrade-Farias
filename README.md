@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://arthurhaf.github.io/Curriculum/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-henrique-andrade-farias-0884bb233/)
 
-![ArthurHAF GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurHAF&show_icons=true&theme=dracula)
+![arthurHAF GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurHAF&show_icons=true&theme=dracula)
 
 ## Hard Skills: 
 
