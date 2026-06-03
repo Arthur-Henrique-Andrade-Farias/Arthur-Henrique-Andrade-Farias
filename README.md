@@ -171,7 +171,7 @@ Plataforma corporativa para a indústria sucroenergética com React, Node.js, My
 ### 🔴 Dentre outras...
 ---
 
-## 📊 Snapshot
+## 📊 Stats
 
 <div align="center">
 
