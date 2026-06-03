@@ -175,12 +175,13 @@ Plataforma corporativa para a indústria sucroenergética com React, Node.js, My
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arthur-Henrique-Andrade-Farias&show_icons=true&theme=transparent&hide_border=true&title_color=dc2626&icon_color=ef4444&text_color=fafaf9&bg_color=0a0608" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Henrique-Andrade-Farias&layout=compact&theme=transparent&hide_border=true&title_color=dc2626&text_color=fafaf9&bg_color=0a0608" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arthur-Henrique-Andrade-Farias&show_icons=true&theme=transparent&hide_border=true&title_color=dc2626&icon_color=ef4444&text_color=fafaf9&bg_color=0a0608&cache_seconds=86400" alt="GitHub Stats" height="180"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Henrique-Andrade-Farias&layout=compact&theme=transparent&hide_border=true&title_color=dc2626&text_color=fafaf9&bg_color=0a0608&cache_seconds=86400" alt="Top Languages" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=Arthur-Henrique-Andrade-Farias&theme=transparent&hide_border=true&background=0a0608&stroke=dc2626&ring=dc2626&fire=ef4444&currStreakLabel=fafaf9&sideLabels=fafaf9&currStreakNum=ef4444&sideNums=ef4444&dates=a1a1aa" alt="GitHub Streak" height="180"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Henrique-Andrade-Farias&theme=react-dark&bg_color=0a0608&color=ef4444&line=dc2626&point=fca5a5&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
 
 </div>
 
