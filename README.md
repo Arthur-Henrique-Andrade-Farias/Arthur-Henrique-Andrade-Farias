@@ -168,6 +168,7 @@ Aplicativo móvel de reconhecimento de fauna e flora brasileira via IA. **Adotad
 
 Plataforma corporativa para a indústria sucroenergética com React, Node.js, MySQL e AWS (EC2, RDS, S3, IAM, VPC, CloudWatch).
 
+### 🔴 Dentre outras...
 ---
 
 ## 📊 GitHub Stats
